@@ -1,4 +1,4 @@
-# Day 5: Database Design - Building the Foundation
+# Chap 5: Database Design - Building the Foundation
 
 *By Ishmael Abayateye*
 * Remeber are explanatory words like scenarios are for Learning purposes*
