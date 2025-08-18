@@ -1,7 +1,7 @@
 # Chap 4: Data Modification - Making Changes Safely
 
 *By Ishmael Abayateye*
-* Remeber are explanatory words like scenarios are for Learning purposes*
+* Remeber explanatory words like scenarios are for Learning purposes*
 
 Today we shift from analyzing data to actively managing it. These skills separate data analysts from data engineers and database administrators. In most companies, senior analysts are trusted with data modification responsibilities - and this trust comes with serious responsibility.
 
