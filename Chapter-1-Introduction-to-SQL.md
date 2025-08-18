@@ -1,8 +1,8 @@
-# Day 1: Introduction to SQL & Database Fundamentals
+# Chap 1: Introduction to SQL & Database Fundamentals
 
 *By Ishmael Abayateye*
 
-Welcome to your SQL journey! I'm excited to guide you through this practical adventure. By the end of today, you'll understand why SQL is one of the most valuable skills you can learn, and you'll have built your first working database.
+Welcome to your SQL journey! I'm excited to guide you through this practical adventure. By the end of Chap 1, you'll understand why SQL is one of the most valuable skills you can learn, and you'll have built your first working database.
 
 ## What is SQL and Why Should You Care?
 
@@ -406,9 +406,9 @@ You've just:
 
 More importantly, you've seen why databases are transformational for any organization dealing with data.
 
-## Tomorrow's Preview
+## Chap 2 Preview
 
-Tomorrow, we'll master the art of finding exactly what you need. You'll learn advanced WHERE clauses, pattern matching, and how to slice and dice your data like a professional analyst.
+In Chap 2, we'll master the art of finding exactly what you need. You'll learn advanced WHERE clauses, pattern matching, and how to slice and dice your data like a professional analyst.
 
 We'll explore questions like:
 - "Show me all members who joined in the last 90 days"
@@ -417,6 +417,6 @@ We'll explore questions like:
 
 ---
 
-*Day 1 Complete! You're now officially on your SQL journey. See you tomorrow!*
+*Chap 1 Complete! You're now officially on your SQL journey. See you tomorrow!*
 
 **Ishmael Abayateye**
