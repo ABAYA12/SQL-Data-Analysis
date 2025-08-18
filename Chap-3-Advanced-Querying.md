@@ -1,7 +1,7 @@
 # Chap 3: Advanced Querying - Joining the Dots
 
 *By Ishmael Abayateye*
-* Remeber are explanatory words like scenarios are for Learning purposes*
+* Remeber explanatory words like scenarios are for Learning purposes*
 
 This Chap. marks the transition from basic SQL to professional-level data analysis. JOINs are what separate entry-level analysts from senior data professionals. Master this, and you'll be able to answer complex business questions that require combining data from multiple sources.
 
