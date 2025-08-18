@@ -1,7 +1,7 @@
 # Chap 5: Database Design - Building the Foundation
 
 *By Ishmael Abayateye*
-* Remeber are explanatory words like scenarios are for Learning purposes*
+* Remeber explanatory words like scenarios are for Learning purposes*
 
 Today we move from using databases to designing them. This is the skill that transforms you from a data analyst into a data architect - someone who shapes how organizations store, organize, and access their most valuable asset: information.
 
