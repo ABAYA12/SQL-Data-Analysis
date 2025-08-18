@@ -1,7 +1,7 @@
 # Chap 2: Basic SQL Queries - Getting Data Out Like a Pro
 
 *By Ishmael Abayateye*
-* Remeber are explanatory words like scenarios are for Learning purposes*
+* Remeber explanatory words like scenarios are for Learning purposes*
 
 Yesterday, you built your first database. Today, we're going to turn you into a data detective - someone who can extract exactly the insights businesses need from raw data.
 
