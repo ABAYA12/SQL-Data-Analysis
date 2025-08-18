@@ -1,7 +1,7 @@
 # Chap 1: Introduction to SQL & Database Fundamentals
 
 *By Ishmael Abayateye*
-* Remeber are explanatory words like scenarios are for Learning purposes*
+* Remeber explanatory words like scenarios are for Learning purposes*
 Welcome to your SQL journey! I'm excited to guide you through this practical adventure. By the end of Chap 1, you'll understand why SQL is one of the most valuable skills you can learn, and you'll have built your first working database.
 
 ## What is SQL and Why Should You Care?
