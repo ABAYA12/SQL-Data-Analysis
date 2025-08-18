@@ -1,4 +1,5 @@
 # This is SQL: A Practical Journey
+![Cover](https://github.com/ABAYA12/SQL-Data-Analysis/blob/main/image.png)
 ## By Ishmael Abayateye
 
 Welcome to your hands-on SQL learning adventure! This book is designed to take you from SQL beginner to confident practitioner in just seven days through real-world examples and practical exercises.
